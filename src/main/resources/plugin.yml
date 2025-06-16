@@ -1,0 +1,7 @@
+name: CaseOh
+version: '1.0.0-BETA'
+main: xyz.dragin.caseoh.CaseOh
+api-version: '1.21'
+authors: [ Dragin ]
+description: he chonk
+website: https://dragin.xyz
