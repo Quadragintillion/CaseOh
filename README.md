@@ -1,13 +1,13 @@
 # CaseOh
 Turns you into CaseOh.
 
-<br>
+<hr>
 
 This was originally made as an "application session" (an event that people had to make a video about to apply) for the [Likesteal SMP](https://www.youtube.com/watch?v=dtoY92tHupM).
 
 It allows you to give a player of your choosing CaseOh powers with `/caseoh <username>`. This plugin is best used in combination with a disguise plugin.
 
-<br>
+<hr>
 
 CaseOh is given 125 hearts and can eat blocks instantly by clicking on them, which makes him grow bigger and heals a single heart per block eaten. As he grows larger, he starts eating larger chunks of the world.
 
